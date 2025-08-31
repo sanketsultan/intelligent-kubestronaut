@@ -1,0 +1,8 @@
+[submodule "training/spaceflight-basics"]
+	branch = master
+[submodule "training/spacecraft-systems"]
+	branch = master
+[submodule "training/flight-simulator"]
+	branch = master
+[submodule "training/flight-prep"]
+	branch = master
