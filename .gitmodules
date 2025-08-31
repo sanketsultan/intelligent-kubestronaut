@@ -1,0 +1,3 @@
+[submodule "training/spaceflight-basics"]
+	path = training/spaceflight-basics
+	url = https://github.com/sanketsultan/spaceflight-basics.git
