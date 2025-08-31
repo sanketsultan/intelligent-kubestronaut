@@ -1,0 +1,20 @@
+[submodule "training/spaceflight-basics"]
+	path = training/spaceflight-basics
+	url = https://github.com/sanketsultan/spaceflight-basics.git
+	branch = master
+[submodule "training/spacecraft-systems"]
+	path = training/spacecraft-systems
+	url = https://github.com/sanketsultan/spacecraft-systems.git
+	branch = master
+[submodule "training/flight-simulator"]
+	path = training/flight-simulator
+	url = https://github.com/sanketsultan/flight-simulator.git
+	branch = master
+[submodule "training/flight-prep"]
+	path = training/flight-prep
+	url = https://github.com/sanketsultan/flight-prep.git
+	branch = master
+[submodule "training/command-center"]
+	path = training/command-center
+	url = https://github.com/sanketsultan/command-center.git
+	branch = master
